@@ -1,0 +1,115 @@
+.parent{
+    width: 95%;
+    height: 900px;
+    background-color: #23263A;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+.ami{
+    margin-left: 180px;
+}
+.nav{
+    color: #fff;
+    display: flex;
+    background-color: #1f2235;
+}
+ul{
+    margin-left: 300px;
+   
+    
+}
+ul li{
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: -50px;
+       
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.socialicons{
+    width: 250px;
+    height: 25px;
+    top: 100px;
+    margin-left: 180px;
+    position: relative; 
+    display: flex; 
+}
+.icons{
+    border: 1px solid red;
+    padding: 4px;
+    border-radius: 50%;
+}
+.doe{
+    color: #fff;
+    margin-left: 180px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.image_1{
+    width: 300px;
+    height: 300px;
+    margin-right: 300px;
+    background-color: none;
+}
+.web{
+    color: #fff;
+    margin-left: 180px;
+    margin-right: 60px;
+}
+.hero{
+    display: flex;
+    margin-top: 100px;
+}
+.button{
+    margin-left: 180px;
+    background-color: #232633;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    color: #fff;
+    border: 2px red solid;
+    margin-top: -20px;
+}
+.footer{
+    width: 100%;
+    height: 270px;
+    background-color: #1F2235;
+    margin-top: 50px;
+}
+#serve{
+    color: #FF4A57;
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    color: #fff;
+    
+}
+h4{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #fff;
+    margin-bottom: 100px;
+}
+.insider{
+    width: 300px;
+    height: 110px;
+    margin-left: 80px;
+    color: #fff;
+    background-color: #23263A;
+    padding-left: 30px;  
+    padding-top: 50px;
+}
+.outsider{
+    display: flex;
+    margin-bottom: 60px;
+    margin-right: 150px;
+    margin-left: 300px;
+    margin-top: -60px;
+}
